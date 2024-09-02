@@ -18,3 +18,9 @@ I am learn more about HTML and CSS💡
 
 I am updating my portfolio, a link will be attached when the update is complete🔗
 
+## Contact me☎️
+
+[Linkin]:https://www.linkedin.com/in/man-chih-chang-136665326/
+[Gmail]: mchang51@asu.edu
+
+
