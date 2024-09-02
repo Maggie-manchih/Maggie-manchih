@@ -1,10 +1,5 @@
 # Hello There 👋
-<<<<<<< HEAD
 
-
-=======
-<!--
->>>>>>> 56e00c57714b0d8259409ff5ef63844c3dea2f2b
 ## About me🙋🏻‍♀️ 
 
 My name is Maggie Chang and I am currently a graduate student at the Center for User Experience at Arizona State University. I am a newbie in web design. I hope I can learn more skills in this course to improve my abilities!
