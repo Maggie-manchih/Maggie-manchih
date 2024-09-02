@@ -9,7 +9,7 @@ My name is Maggie Chang and I am currently a graduate student at the Center for 
 
 * Software: Photoshop, Illustrator, InDesign, Premiere Pro, Figma
 * Languagrs: HTML
-* Styling; CSS
+* Styling: CSS
 * Version Control: GitHub
 
 I am learn more about HTML and CSS💡
